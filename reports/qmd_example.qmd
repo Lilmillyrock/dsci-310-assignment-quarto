@@ -4,6 +4,8 @@ author: "Tiffany Timbers & Jordan Bourak"
 format: 
     html:
         toc: true
+    pdf:
+        toc: true
 editor: source
 bibliography: references.bib
 execute:
